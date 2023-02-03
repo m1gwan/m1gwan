@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @m1gwan
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning Python :D
+Я занимаюсь кодингом, знаю такие языки программирования как: JS, LUA, PY, (HTML/css). 
 
 <!---
 m1gwan/m1gwan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
